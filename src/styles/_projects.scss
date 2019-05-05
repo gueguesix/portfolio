@@ -165,9 +165,9 @@ body {
   width: 0;
   z-index: 1;
   right: 30px;
-  border: medium solid white;
+  border: medium solid #FF9F55;
   border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent white;
+  border-color: transparent transparent transparent #FF9F55;
 }
 
 /* Add arrows to the right container (pointing left) */
@@ -179,9 +179,9 @@ body {
   width: 0;
   z-index: 1;
   left: 30px;
-  border: medium solid white;
+  border: medium solid #FF9F55;
   border-width: 10px 10px 10px 0;
-  border-color: transparent white transparent transparent;
+  border-color: transparent #FF9F55 transparent transparent;
 }
 
 /* Fix the circle for containers on the right side */
@@ -216,7 +216,7 @@ body {
   left: 60px;
   border: medium solid white;
   border-width: 10px 10px 10px 0;
-  border-color: transparent white transparent transparent;
+  border-color: transparent #FF9F55 transparent transparent;
   }
 
   /* Make sure all circles are at the same spot */
