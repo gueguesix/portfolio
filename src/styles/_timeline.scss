@@ -3,6 +3,12 @@ body {
     font-family: Helvetica, sans-serif;
   }
   
+#timeline {
+    h2 {
+        text-align: center;
+    }
+}
+
   /* The actual timeline (the vertical ruler) */
   .timeline {
     position: relative;
@@ -46,7 +52,7 @@ body {
   
   /* Place the container to the left */
   .left {
-    left: -8.3%;
+    left: -6.6%;
   }
   
   /* Place the container to the right */
