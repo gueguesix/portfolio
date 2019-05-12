@@ -95,6 +95,9 @@ body {
   
   /* The actual content */
   .content {
+      h3 {
+          padding-top: 0;
+      }
     padding: 20px 30px;
     background-color: white;
     position: relative;
